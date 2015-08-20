@@ -1,1 +1,2 @@
-baseurl:/vicent900527
+markdown: rdiscount
+pygments: true
