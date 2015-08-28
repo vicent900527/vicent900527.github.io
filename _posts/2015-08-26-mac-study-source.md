@@ -24,7 +24,7 @@ title: Mac Pro之旅-入门篇
 <br>没关系，mac有个很强大的搜索工具能弥补这个缺，那就是Spotlight，快捷键ctrl+space就能出来,也可以点击屏幕右上角的放大镜图标。
 <br>Spotlight长这样：
 
-<img src="../static/images/spotlight.png" />
+<img src="/vicent900527/vicent900527.github.io/raw/master/static/images/spotlight.png" />
 
 <br>精巧实用，有了这东西，这就不用像windows那样一层一层的文件去翻。
 <br>当然，windows下也有个很强力的文件搜索工具—everything.功能是一样的。
