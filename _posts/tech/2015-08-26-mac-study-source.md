@@ -44,7 +44,7 @@ title: Mac Pro之旅-入门篇
 
 Spotlight长这样：
 
-![image](../../images/spotlight.png)
+![image](/images/spotlight.png)
 
 精巧实用，有了这东西，这就不用像windows那样一层一层的文件去翻。
 
@@ -59,7 +59,7 @@ Spotlight长这样：
 
 Toggle Alfred长这样：
 
-![image](../../images/alfred.png)
+![image](/images/alfred.png)
 
 是不是很棒？谁用谁知道。
 
@@ -128,7 +128,7 @@ config之类的，自己的全局变量就定义在.bash_profile文件里），�
 
 直接 vi .gitconfig然后改动如下：
 
-![image](../../images/terminal.png)
+![image](/images/terminal.png)
 
 alias是别名的意思。
 
