@@ -24,7 +24,7 @@ title: Mac Pro之旅-入门篇
 <br>没关系，mac有个很强大的搜索工具能弥补这个缺，那就是Spotlight，快捷键ctrl+space就能出来,也可以点击屏幕右上角的放大镜图标。
 <br>Spotlight长这样：
 
-<img src="/vicent900527/vicent900527.github.io/raw/master/static/images/spotlight.png" />
+![image](../static/images/spotlight.png)
 
 <br>精巧实用，有了这东西，这就不用像windows那样一层一层的文件去翻。
 <br>当然，windows下也有个很强力的文件搜索工具—everything.功能是一样的。
@@ -32,7 +32,7 @@ title: Mac Pro之旅-入门篇
 <br>它是利用Spotlight做索引的，所以找文件会更快，更准。另外还能把你输入的关键词进行google搜索。<br>快捷键：alt+space（可自己设置）。
 <br>Toggle Alfred长这样：
 
-<img src="../static/images/alfred.png" />
+![image](../static/images/alfred.png)
 
 <br>是不是很棒？谁用谁知道。
 <br>mac下的文件管理器就是默认情况下dock最左边的那个方形笑脸，Finder。它其实有点像手机上的文件管理工具，是把磁盘上的文件都归类管理的，比如文本文件、图片、音乐、视频。。。
@@ -71,7 +71,7 @@ title: Mac Pro之旅-入门篇
 <br>再比如在用户根目录下配置一些命令的快捷键，具体的软件需要在具体的.config文件里配置（Terminal里玩的程序初始化时默认都会读取用户目录下的配置文件，一般是.开头，.config之类的，自己的全局变量就定义在.bash_profile文件里），比如使用git，我就想要用git co代替git checkout,那我只要在用户根目录下的.gitconfig文件里起别名就行了。
 <br>直接 vi .gitconfig然后改动如下：
 
-<img src="../static/images/terminal.png" />
+![image](../static/images/terminal.png)
 
 <br>alias是别名的意思。
 <br>开启多个Terminal的快捷键是<b>cmd+n</b>。
