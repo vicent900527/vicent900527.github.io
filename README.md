@@ -1,6 +1,6 @@
 ### 我的博客
 
-地址：[http://yansu.org](http://yansu.org)
+克隆于：[http://yansu.org](http://yansu.org)  [源码地址](https://github.com/suyan/suyan.github.io.git)
 
 ### 安装说明
 
