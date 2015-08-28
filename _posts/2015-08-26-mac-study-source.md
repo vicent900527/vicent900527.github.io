@@ -14,6 +14,7 @@ title: Mac Pro之旅-入门篇
 <br>相信用惯了mac的小伙伴已笑尿于厕，亏你还自诩程序猿。
 <br>
 <b>黔之虎没见过驴，一开始见到驴就被惊呆了，庞然不知何物。当时差不多就是这种状态。 </b>
+<br>
 <br>可是也恰恰是跟同事问了这个问题，从同事那里取到了真经。
 <br>同事是个老牌mac用户，把近10年的使用习惯和收集到的小软件压入了他的timemashine。
 <br>近50个G，惊讶的程度丝毫不比听到前几年流行的“我丢了个U盘，8个G的”这种话差多少。
@@ -25,7 +26,6 @@ title: Mac Pro之旅-入门篇
 
 ![image](../static/images/spotlight.png)
 
-
 <br>精巧实用，有了这东西，这就不用像windows那样一层一层的文件去翻。
 <br>当然，windows下也有个很强力的文件搜索工具—everything.功能是一样的。
 <br>这是不是就代表mac比windows弱呢，不是的。mac下还有一个比Spotlight更强大的文件搜索工具：<b>Toggle Alfred。</b>
@@ -33,7 +33,6 @@ title: Mac Pro之旅-入门篇
 <br>Toggle Alfred长这样：
 
 ![image](../static/images/alfred.png)
-
 
 <br>是不是很棒？谁用谁知道。
 <br>mac下的文件管理器就是默认情况下dock最左边的那个方形笑脸，Finder。它其实有点像手机上的文件管理工具，是把磁盘上的文件都归类管理的，比如文本文件、图片、音乐、视频。。。
