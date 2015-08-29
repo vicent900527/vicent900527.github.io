@@ -19,7 +19,6 @@ title: 资源收集
 
 * 不错的安卓博客地址：
 [blog.csdn.net/liranke](http://blog.csdn.net/liranke/article/category/605374)
-
 [blog.csdn.net/Luoshengyang](http://blog.csdn.net/Luoshengyang)
 
 
