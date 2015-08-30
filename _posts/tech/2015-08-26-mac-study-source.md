@@ -6,6 +6,7 @@ keywords: mac入门
 description: mac的使用心得
 title: Mac Pro之旅-入门篇
 ---
+
 自从有了一台mac，觉得生活和工作中的很多小环节就发生了变化.
 
 虽然是工作本，但基本上就是全天随身。
