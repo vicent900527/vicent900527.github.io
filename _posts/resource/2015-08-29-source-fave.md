@@ -22,7 +22,7 @@ title: 资源收集
 [blog.csdn.net/Luoshengyang](http://blog.csdn.net/Luoshengyang)
 
 ### <b>iOS</b>
-[blog.csdn.net/yiyaaixuexi](http://blog.csdn.net/yiyaaixuexi)
+* 略屌的一枚程序媛博客：[blog.csdn.net/yiyaaixuexi](http://blog.csdn.net/yiyaaixuexi)
 
 ### <b>tools</b>
 
