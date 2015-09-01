@@ -170,6 +170,4 @@ title: Atom快捷键的使用
 [terminal-panel](https://atom.io/packages/terminal-panel) 直接在atom里面写命令了  
 [svg-preview](https://atom.io/packages/svg-preview) svg预览
 
-就这些了，欢迎pull更多好用的插件！
-
 来自：[github.com/futantan/atom](https://github.com/futantan/atom)
