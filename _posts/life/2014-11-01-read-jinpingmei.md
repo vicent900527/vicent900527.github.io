@@ -4,7 +4,7 @@ category: life
 tags: life
 keywords: 金瓶梅,眼见
 description: 偏见,极端,无知
-title:《金瓶梅》的文革
+title: 《金瓶梅》的文革
 ---
 
 初中时听老师讲过一个当地人闹文革的故事。
