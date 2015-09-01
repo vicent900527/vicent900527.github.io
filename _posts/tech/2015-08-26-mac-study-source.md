@@ -141,20 +141,15 @@ alias是别名的意思。
 
 你过来，我保证不打你。 
 
-<pre><code>
 <b>follow me :</b>
 Step one: ctrl+space，或者点击屏幕右上角的放大镜图标，打开Spotlight；
 Step two: 在Spotlight里输入Numbers，回车。
-</code></pre>
 
 ##### 另外说几个mac的突出优势：
-
-<pre><code>
 - 形色绝佳，轻薄、纯色，高端优雅能装B
 - 开机快，毕竟SSD，你会开始嫌弃windows；
 - 续航持久，10个小时，比手机还长，坚挺；
 - 视网膜屏，看上极舒服。
-</code></pre>
 
 真的
 
