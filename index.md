@@ -11,6 +11,11 @@ title: Welcome
 
 慢慢会改成自己喜欢的style
 
+域名已申请，后续完成两件事情：
+
+* 做个Android技术系列的博客
+* 继续记录个人经历。
+
 <b>about me：</b>
 	安卓开发者     JS前端开发者  
 	[www.withouz.com](http://www.withouz.com)
