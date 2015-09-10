@@ -12,8 +12,8 @@ title: Welcome
 慢慢会改成自己喜欢的style
 
 <b>about me：</b>
-	安卓开发者  JS前端开发者  
+	安卓开发者     JS前端开发者  
 	[www.withouz.com](http://www.withouz.com)
 
 <b>足迹：</b>
-	[CSND](http://blog.csdn.net/luozhi3527)    [豆瓣](http://www.douban.com/people/54613644/)    [知乎](http://www.zhihu.com/people/qiong-xiao-zi)    [EOE](http://www.eoeandroid.com/space-uid-647584.html)    [GitHub](https://github.com/vicent900527)
+	[CSND](http://blog.csdn.net/luozhi3527)    [EOE](http://www.eoeandroid.com/space-uid-647584.html)    [GitHub](https://github.com/vicent900527)		[豆瓣](http://www.douban.com/people/54613644/)    [知乎](http://www.zhihu.com/people/qiong-xiao-zi)    
