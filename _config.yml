@@ -9,14 +9,14 @@ kramdown:
 author: 
   name: 琼小资
   email: vocient@gmail.com
-  link: http://vicent900527.github.io/
+  link: http://withouz.com
   #weibo: http://weibo.com/yansu0711
   github: http://github.com/vicent900528
 
 # 站点信息
 title: 琼小资的博客 
 description: 琼小资的博客
-url: http://vicent900527.github.io/
+url: http://withouz.com
 rss_url: /pages/atom.xml
 
 # avatar头像及Favicon
@@ -26,8 +26,8 @@ favicon: /images/bitbug_favicon.ico
 # google analytics 设置
 ga:
   id: UA-58303639-2
-  url: vicent900527.github.io
+  url: www.withouz.com
 
 # disqus 设置
 disqus:
-  shortname: xluo
+  shortname: vicent
