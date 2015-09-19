@@ -13,7 +13,7 @@ title: 9月第三周末安排
      心里只有魔窟的人，到哪里都是魔窟的；而心里阳光的人，到哪里都充满阳光。
      哪有那么糟糕，生活和工作上都从未有过的顺。
      有点压力但能接受，不断在管理和技术上进步，上坡路从来都不是轻松易走的。
-     when life is a hard game, don't you blame, it's a chance to rise your arm.
+     when life is a hard game, don't you blame, it's am chance to rise your arm.
      鸡血的文字在褪色前就不会失去动力。
 * ### 停网 ###
      这坑爹的电信，缴费是每个月自动从银行卡扣的，这暴力的不能再暴力了。
