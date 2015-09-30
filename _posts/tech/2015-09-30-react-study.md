@@ -31,6 +31,7 @@ title: mac下react环境搭建
 接下来我们写个简单的例子。
 把刚才的目录用atom打开，创建一个index.html文件。
 index.html的文件内容：
+
 ```
 <html>
   <head>
@@ -44,16 +45,16 @@ index.html的文件内容：
   </body>
 </html>
 ```
+
 这时我们可以打开index.html，是一个空白的网页。
 接下来在根目录下建立src文件夹，并在src下新建test.js，并新增如下代码：
+
 ```
-//申明标签
 var Hello = React.createClass({
   render: function(){
     return <h1> hello world </h1>;
   }
 });
-//把标签放入指定位置中
 React.render(<Hello /> , document.getElementById('container'));
 ```
 编译src目录：
