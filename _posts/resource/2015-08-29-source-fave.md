@@ -19,6 +19,8 @@ title: 资源收集
 [open-source-for-android](https://github.com/Trinea/android-open-project)
 [a.code4app.com](http://a.code4app.com)
 
+* android Material Design : [material design](http://wiki.jikexueyuan.com/project/material-design)
+
 * 不错的安卓博客地址：
 [blog.csdn.net/liranke](http://blog.csdn.net/liranke/article/category/605374)
 [blog.csdn.net/Luoshengyang](http://blog.csdn.net/Luoshengyang)
