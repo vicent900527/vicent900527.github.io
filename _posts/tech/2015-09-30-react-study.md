@@ -80,7 +80,7 @@ React.render(<Hello /> , document.getElementById('container'));
 好，到这里，我们可以在终端运行react了。
 这时刷新我们的浏览器，就能看到hello world了。
 
-![image](/images/react_result.png)
+![image](/images/react_result.jpeg)
 
 
 
