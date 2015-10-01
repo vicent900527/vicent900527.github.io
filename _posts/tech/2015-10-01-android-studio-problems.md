@@ -12,11 +12,11 @@ android开发工具android studio安装后会遇到sdk下载失败的问题。
 每次打开都会提示 set proxy
 在mac下可以通过启动文件设置避开这问题:
 
-* 在findler中找到android studio应用程序并显示报内容
+* <b>在findler中找到android studio应用程序并显示报内容</b>
 like this:
 	![image](/images/android_studio_in_findler.png)
 
-* 打开Contents/bin/idea.properties文件，在最后加上一行
+* <b>打开Contents/bin/idea.properties文件，在最后加上一行</b>
 
 	``` disable.android.first.run=true ```
 

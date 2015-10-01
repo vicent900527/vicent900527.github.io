@@ -7,24 +7,31 @@ description: react学习
 title: mac下react环境搭建
 ---
 
-* 建立工作环境：
+* #### 建立工作环境：####
 	在终端建立工作空间，并初始化
+
 	``` 
 		mkdir react
 		cd react
 		bower init
 	```
+
     完成后会在目录下生成一个bower.json文件。
-* 安装react
+* #### 安装react ####
     这时可以把react安装了：
+
     ```
     bower install react --save
     ```
+
     ![image](/images/create.png)
-* 安装依赖
+
+* #### 安装依赖 ####
+
 	```
 	npm install -g babel
 	```
+
 	babel是为引用JSX库使用的。
 很简单，我们的react工作环境就建立起来了。
 
@@ -57,17 +64,22 @@ var Hello = React.createClass({
 });
 React.render(<Hello /> , document.getElementById('container'));
 ```
+
 编译src目录：
+
 ```
  babel src --watch --out-dir build
 ```
 这里是把src目录下的文件输出到build目录下。
 完成后在在index.html中引入test.js文件，注意，这里的路劲不是src目录下的test.js，而是build目录下的test.js，原因是react运行时会自动把编译后的js放入build目录下去。
+
 ```
 <script type="text/javascript" src="./build/todo.js"></script>
 ```
+
 好，到这里，我们可以在终端运行react了。
 这时刷新我们的浏览器，就能看到hello world了。
+
 ![image](/images/react_result.png)
 
 
