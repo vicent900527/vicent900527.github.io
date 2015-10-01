@@ -10,6 +10,8 @@ title: 资源收集
 ### <b>android</b>
 
 * 安卓开发官网：[developer.android.com](http://developer.android.com/index.html)
+	一般来说，官网被墙就很难打开的。不过可以访问下面的网站：
+	[android.xsoftlab.net](http://android.xsoftlab.net/)
 
 * 安卓工具资源地址：[androiddevtools.cn/](http://androiddevtools.cn/)
 
