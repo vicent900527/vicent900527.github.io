@@ -10,7 +10,8 @@ title: android studio常见问题
 由于谷歌被强的原因，android开发官网以及一些开发工具都不能正常使用。
 android开发工具android studio安装后会遇到sdk下载失败的问题。
 每次打开都会提示 set proxy
-在mac下可以通过启动文件设置避开这问题：
+在mac下可以通过启动文件设置避开这问题:
+
 * 在findler中找到android studio应用程序并显示报内容。
 	![image](/images/android_studio_in_findler.png)
 * 打开Contents/bin/idea.properties文件，在最后加上一行
