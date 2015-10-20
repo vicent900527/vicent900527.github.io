@@ -1,6 +1,7 @@
 permalink: /:year/:month/:day/:title.html
 markdown: kramdown
-highlighter: true
+# highlighter: true
+pygments: ture
 
 kramdown:
   input: GFM
@@ -10,7 +11,6 @@ author:
   name: 琼小资
   email: vocient@gmail.com
   link: http://blog.withouz.com
-  #weibo: http://weibo.com/yansu0711
   github: https://github.com/vicent900527
 
 # 站点信息

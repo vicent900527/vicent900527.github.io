@@ -34,3 +34,7 @@ title: 资源收集
 ### <b>tools</b>
 
 * 谷歌分析 : [www.google.com/analytics](https://www.google.com/analytics/)
+
+### <b> some nice blogs</b>
+
+[barretlee](http://barretlee.com) 一枚阿里程序员的博，大前端开发者，小文艺。
