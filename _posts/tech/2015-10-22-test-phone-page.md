@@ -4,7 +4,7 @@ category: tech
 tags: tech
 keywords: chrome 测试 kaifa 
 description: 
-title: 手机网页联机测试
+title: 手机网页联机调试
 ---
 
 chrome和safari都支持远程调试，以chrome为例，我们只需这样操作：
