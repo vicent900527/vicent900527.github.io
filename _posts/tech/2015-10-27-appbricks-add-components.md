@@ -38,6 +38,7 @@ title: 在appbricks中新增组件
 |	|		|	  |-- components/
 
 ```
+
 样式放在less目录下，组件样式放在less/runtime/components/下，设计器样式放在less/builder/inspectors下；
 组件和设计器放在static的runtime和builder对应的文件夹下。
 另外还需要添加引用这些样式和组件、设计器的代码。
@@ -47,15 +48,18 @@ title: 在appbricks中新增组件
 @import 'inspectors/inspectors-name'
 
 ```
+
 同理在less/runtime/runtime.css种添加类似代码
 
 组件和设计器的引用：
 组件：
 在static/runtime/js/library.js种添加：
+
 ```
 require('./components/componentName');
 
 ```
+
 设计器：
 在static/builder/js/Library.js中添加：
 
