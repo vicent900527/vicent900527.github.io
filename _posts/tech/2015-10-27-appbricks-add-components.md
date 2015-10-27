@@ -49,11 +49,11 @@ title: 在appbricks中新增组件
 
 ```
 
-同理在less/runtime/runtime.css种添加类似代码
+同理在less/runtime/runtime.css中添加类似代码
 
 组件和设计器的引用：
 组件：
-在static/runtime/js/library.js种添加：
+在static/runtime/js/library.js中添加：
 
 ```
 require('./components/componentName');
