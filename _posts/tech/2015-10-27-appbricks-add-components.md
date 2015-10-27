@@ -7,7 +7,7 @@ description: appbricks新增组件
 title: 在appbricks中新增组件
 ---
 
-基于IDE开发组件，包括似部分：
+基于IDE开发组件，包括四部分：
 
 * 组件样式
 
