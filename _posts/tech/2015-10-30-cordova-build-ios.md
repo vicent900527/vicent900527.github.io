@@ -34,6 +34,12 @@ title: Mac下Cordova打包iOS
 	cordova run ios --device
 	```
 
+移除平台：
+```
+cordova platform rm ios
+```
+
+cordova的一些设备API是通过插件加载的，比如位置、通知、弹出框、联系人、照相机、媒体库等，具体信息可以查看[这里](http://cordova.apache.org/docs/en/5.1.1/guide/cli/index.html#link-2)
 
 cordova官方文档
 
