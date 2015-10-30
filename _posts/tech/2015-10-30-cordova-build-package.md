@@ -69,6 +69,9 @@ sudo npm install cordova
 cordova plugin remove com.jamiestarke.webviewdebug
 ```
 
+cordova官方文档
+
+[cordova.apache.org/docs](http://cordova.apache.org/docs)
 
 
 
