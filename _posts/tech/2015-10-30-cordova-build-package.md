@@ -9,26 +9,24 @@ title: Mac下Cordova打包Android
 
 1. 准备环境
 
-	需要有jdk，android SDK
-	并设置相应的环境变量。
+   需要有jdk，android SDK
+   并设置相应的环境变量。
 
-2. 安装 cordova
+1. 安装 cordova
 
 	```
 	sudo npm install cordova
 	```
 
-3. 创建项目
+1. 创建项目
 
 	创建一个demo文件夹，空的
 
 	```
 	cordova create demo com.test.demo demo
-
-		|	   |	|			|		 |
+	```
 
 	cordova  创建   目录      appid		名称
-	```
 
 4. 把web工程拷贝到demo/www目录下
 
