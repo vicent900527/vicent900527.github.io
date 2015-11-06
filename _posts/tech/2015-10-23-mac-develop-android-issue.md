@@ -4,7 +4,7 @@ category: tech
 tags: tech
 keywords: mac eclipse android develop
 description: 
-title: mac使用eclipse开发安卓时使用微信SDK的坑
+title: mac使用eclipse调用微信SDK的坑
 ---
 
 在mac下使用eclipse开发android时，如果要用到微信sdk，会发现里面有一个包 import com.tencent.mm.sdk.modelmsg 是加载不进来的。
