@@ -40,6 +40,8 @@ open .
 	open -e test.txt
 	```
 
+装逼足矣.
+
 ## finder --> terminal
 
 MAC默认是不能在finder中直接打开terminal的，但是我们（特别是开发者）往往有这样的需求。
