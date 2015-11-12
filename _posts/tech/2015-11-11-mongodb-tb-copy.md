@@ -13,7 +13,21 @@ db.tb_a.find().forEach(function(d){db.getSiblingDB('db_b')['tb_a'].insert(d);})
 
 解释：
 把tb_a中的数据全部取出并逐行插入到db_b数据库中的tb_a中。
+```
 db.getSiblingDb：
+```
+
 官网的解释是：a database object
-所以 db.getSiblingDB('db_b')['tb_a'] 是指db_b数据库中的tb_a表
-所以相当于 db_b.tb_a.insert(d) ; 对tb_a执行插入操作
+
+所以 
+```
+db.getSiblingDB('db_b')['tb_a'] 
+```
+
+是指db_b数据库中的tb_a表
+所以相当于 
+```
+db_b.tb_a.insert(d) ; 
+```
+
+对tb_a执行插入操作
