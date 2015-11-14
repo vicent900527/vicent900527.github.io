@@ -30,7 +30,7 @@ android studio陆续出的功能更是为开发者考虑更多。
 
 还有各种辅助开发的工具，比如网络监控、内存监控、debug工具。。。
 
-## 感觉还略有期待的，就是整个平台对html5的宽容。
+## 感觉还略有期待的，就是整个平台对html5的发力。
 
 
 [android tools project site](http://tools.android.com/recent/androidstudio14preview1incanarychannel)
