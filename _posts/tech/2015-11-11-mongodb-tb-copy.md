@@ -3,7 +3,7 @@ layout: post
 category: tech
 tags: tech
 keywords: mongodb
-description: mongoDB数据表批量拷贝
+description: MongoDB数据表批量拷贝
 title: MongoDB数据批量拷贝
 ---
 把当前数据库中的tb_a中的数据拷贝到db_b数据库中的tb_a中
