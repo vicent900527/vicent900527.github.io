@@ -1,0 +1,3 @@
+Sitemap: http://vicent900527.github.io/sitemap.xml
+User-agent: *
+Allow: /
