@@ -4,7 +4,7 @@ category: tech
 tags: tech
 keywords: android studio
 description: android studio
-title: AS工具特性
+title: AS新特性
 ---
 
 android studio可谓是Android开发利器。
