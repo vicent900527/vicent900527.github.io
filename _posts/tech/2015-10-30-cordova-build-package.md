@@ -26,8 +26,6 @@ title: Mac下Cordova打包Android
 	cordova create demo com.test.demo demo
 	```
 
-	cordova  创建   目录      appid		名称
-
 4. 把web工程拷贝到demo/www目录下
 
 5. 添加android平台
@@ -39,7 +37,7 @@ title: Mac下Cordova打包Android
 6. 打包
 
 	```
-	cordova build android //打包所有平台的
+	cordova build android 
 	```
 	这时可能会遇到android SDK版本的问题，需要修改几个地方
 
