@@ -60,13 +60,13 @@ title: Mac下Cordova打包Android
 
 	```
 	cordova plugin add https://github.com/jrstarke/webview-debug.git
-	
+	```
 
 	调试的时候可以使用，正式发布时需要remove
 
 	```
 	cordova plugin remove com.jamiestarke.webviewdebug
-	
+	```
 
 
 cordova官方文档
