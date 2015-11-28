@@ -10,6 +10,7 @@ title: Mac下Cordova打包iOS
 在上一篇的基础上，在使demo项目能在ios上运行起来。
 
 1. 准备
+
 	```
 	$ npm install -g ios-sim
     $ npm install -g ios-deploy
