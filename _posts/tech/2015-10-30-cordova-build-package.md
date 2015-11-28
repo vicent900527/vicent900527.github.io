@@ -7,18 +7,18 @@ description: cordova 打包
 title: Mac下Cordova打包Android
 ---
 
-<b>1. 准备环境</b>
+1. 准备环境
 
    	需要有jdk，android SDK
    	并设置相应的环境变量。
 
-<b> 2. 安装 cordova </b>
+2. 安装 cordova
 
 	```
 	sudo npm install cordova
 	```
 
-<b> 3. 创建项目 </b>
+3. 创建项目
 
 	创建一个demo文件夹，空的
 
@@ -26,15 +26,15 @@ title: Mac下Cordova打包Android
 	cordova create demo com.test.demo demo
 	```
 
-<b> 4. 把web工程拷贝到demo/www目录下 </b>
+4. 把web工程拷贝到demo/www目录下
 
-<b> 5. 添加android平台 </b>
+5. 添加android平台
 
 	```
 	cordova platform add android
 	```
 
-<b> 6. 打包 </b>
+6. 打包
 
 	```
 	cordova build android 
@@ -50,7 +50,7 @@ title: Mac下Cordova打包Android
 	3中的targetVersion的改动也是同一个道理
 	改好后再执行 cordova build android
 
-<b> 7. 运行 </b>
+7. 运行
 
 	打开模拟器或者连接设备，使用命令：cordova run android
 
