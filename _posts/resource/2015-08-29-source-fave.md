@@ -39,4 +39,8 @@ title: 资源收集
 
 [barretlee](http://barretlee.com) 一枚阿里程序员的博，大前端开发者，小文艺。
 
+### <b>技術電子書</b>
+
+[http://ebookee.org/index.php?tag=8](http://ebookee.org/index.php?tag=8)
+
 
