@@ -4,7 +4,7 @@ category: tech
 tags: tech
 keywords: Atom 个性化
 description: Atom个性化设置
-title: Atom个性化snipets
+title: Atom个性化，Snipets
 ---
 
 Atom的spinets是自定义代码块的快捷键配置文件，我们可以根据自己的编码习惯，在该文件里配置一些模块化的代码块。
