@@ -10,7 +10,7 @@ title: Atom个性化snipets
 Atom的spinets是自定义代码块的快捷键配置文件，我们可以根据自己的编码习惯，在该文件里配置一些模块化的代码块。
 比如基于backbone种的一些语法块，我做了如下配置：
 
-```coffee
+```
 '.source.js':
   #1. define common class
   'common class':
@@ -32,7 +32,7 @@ Atom的spinets是自定义代码块的快捷键配置文件，我们可以根据
 
 这是一个coffee语法的cson文件，
 coffee是通过缩进做语法控制。下面对上面的代码做下解释：
-```coffee
+```
 '.source.js' 
 # 申明下面的代码适用哪种文件，这里表示适用后缀为.js的文件。
 	'common class':
