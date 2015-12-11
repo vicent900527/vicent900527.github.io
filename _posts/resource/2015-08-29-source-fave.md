@@ -43,4 +43,7 @@ title: 资源收集
 
 [http://ebookee.org/index.php?tag=8](http://ebookee.org/index.php?tag=8)
 
+### <b>前端技术大合唱</b>
+[http://segmentfault.com/a/1190000004070468](http://segmentfault.com/a/1190000004070468)
+
 

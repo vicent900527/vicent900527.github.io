@@ -1,7 +1,7 @@
 ---
 layout: post
 category: tech
-tags: tech
+tags: life
 keywords: 老鼠
 description: 灭鼠记
 title: 灭鼠记
