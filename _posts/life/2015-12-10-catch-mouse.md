@@ -1,6 +1,6 @@
 ---
 layout: post
-category: tech
+category: life
 tags: life
 keywords: 老鼠
 description: 灭鼠记
