@@ -7,7 +7,7 @@ description: 学习阮一峰的博客
 title: 学习React Native和阮一峰的博客
 ---
 
-![img](/images/sun_air.png)
+![img](/images/sun_air.jpg)
 
 久雨初晴，难得的好天气，深圳却变成了一座空城。
 每年都会如此，有钱没钱回家过年已经成了一条铁律。
