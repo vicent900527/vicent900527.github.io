@@ -4,7 +4,7 @@ category: life
 tags: life
 keywords: 虚拟现实 VR
 description: 虚拟现实
-title: 虚拟现实
+title: 异军突起--虚拟现实
 ---
 
 前两天应邀去见了一个朋友，他聊到他的产品--虚拟现实，顺便去他公司看了他们在做的东西。
