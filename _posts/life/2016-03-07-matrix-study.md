@@ -8,6 +8,7 @@ title: 矩阵的运算
 ---
 
 今天搞懂了矩阵的运算，加，减，乘。加减都很容易理解，乘法有点难理解，但是跟线性方程式放在一起，就比较容易理解。
+
 * 矩阵的加法
 
 两个矩阵相加，是每个矩阵的每个对应的位置上的数字相加。
@@ -29,12 +30,14 @@ title: 矩阵的运算
 
 就可以用矩阵表示成：
 
-| 3  7 | x | 10 |
-| 5  6 | y | 14 |
+```
+| 3  7 |   | x |   | 10 |
+| 5  6 |   | y |   | 14 |
+```
 
 
 参考资料：
 
-![http://www.ruanyifeng.com/blog/2015/09/matrix-multiplication.html](http://www.ruanyifeng.com/blog/2015/09/matrix-multiplication.html)
+[http://www.ruanyifeng.com/blog/2015/09/matrix-multiplication.html](http://www.ruanyifeng.com/blog/2015/09/matrix-multiplication.html)
 
 
