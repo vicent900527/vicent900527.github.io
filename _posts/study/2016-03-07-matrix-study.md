@@ -1,7 +1,7 @@
 ---
 layout: post
-category: life
-tags: life
+category: study
+tags: study
 keywords: 矩阵
 description: 矩阵的运算
 title: 矩阵的运算
