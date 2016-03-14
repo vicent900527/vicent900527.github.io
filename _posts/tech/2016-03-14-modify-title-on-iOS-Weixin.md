@@ -4,7 +4,7 @@ category: tech
 tags: tech
 keywords: html5 title iOS
 description: js修改title在iOS的微信浏览器上不成功的问题
-title: js修改title在iOS的微信浏览器上不成功的问题
+title: js修改title在iOS的微信浏览器上不成功
 ---
 
 这是在iOS微信上的html5有一个bug，在Android的微信上不存在。
