@@ -53,8 +53,6 @@ title: 下雨的周末
 
 所幸的是，回到家有香到醉的娘酒鸡，洗完澡有开源内裤。
 
-![img](/images/oschina_brief.JPG)
-
 ^.^
 
 
