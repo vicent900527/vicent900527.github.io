@@ -1,7 +1,7 @@
 ---
 layout: post
-category: life
-tags: life
+category: book
+tags: book
 keywords: 随遇而安
 description: 随遇而安
 title: 随遇而安

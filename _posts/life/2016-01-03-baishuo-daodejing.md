@@ -1,7 +1,7 @@
 ---
 layout: post
-category: life
-tags: life
+category: book
+tags: book
 keywords: 白岩松 道德经
 description: 白岩松解读道德经
 title: 白说《道德经》

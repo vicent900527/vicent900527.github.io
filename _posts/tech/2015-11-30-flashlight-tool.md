@@ -4,7 +4,7 @@ category: tech
 tags: tech
 keywords: flashlight
 description: flashlight
-title: 死胎的Flashlight
+title: Flashlight
 ---
 
 最近在知乎上看到一个问题：程序员怎样优雅的玩mac？
@@ -26,7 +26,9 @@ Flashlight能干啥呢？知乎的这个[答案](http://www.zhihu.com/question/2
 然后，仍然是知乎上的[答案](http://www.zhihu.com/question/34273157)
 说mac OS X 版本10.10.4的用不了。
 用不了，但是万能的程序员提供了解决方法，说要安装一个[插件](https://gist.github.com/selaromi/59666a71387d39b5bfac)。
+
 ![img](/images/flashlight-plugin-des.png)
+
 需要翻墙。
 赶紧翻墙，按照步骤一点一点来。
 一步，一步，来。

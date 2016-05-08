@@ -1,7 +1,7 @@
 ---
 layout: post
-category: tech
-tags: tech
+category: book
+tags: book
 keywords: CSS学习
 description: CSS学习
 title: 学习《精通CSS高级Web标准解决方案》(第二版)

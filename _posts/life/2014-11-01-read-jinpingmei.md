@@ -1,7 +1,7 @@
 ---
 layout: post
-category: life
-tags: life
+category: book
+tags: book
 keywords: 金瓶梅,眼见
 description: 偏见,极端,无知
 title: 《金瓶梅》的文革
