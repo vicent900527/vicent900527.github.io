@@ -2,9 +2,9 @@
 layout: post
 category: tech
 tags: tech
-keywords: js懒图片
-description: js懒图片
-title: js懒图片
+keywords: js动态加载图片
+description: js动态加载图片
+title: js动态加载图片
 ---
 
 与移动端的native图片加载不同，native的图片加载、大小处理、显示全靠自己手动完成。而html历史悠久，因此在屏幕显示图片很智能。
