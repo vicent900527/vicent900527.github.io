@@ -15,3 +15,7 @@ var getDate = function(){
    return "已开博 " + parseInt(year) + "年" + parseInt(month) + "月" + parseInt(day) + "天";
 }
 $(".timer").text(getDate());
+setTimeout(function(){
+  var length = $("#pl__container").find("a").length;
+  $("#pl__all").text("所有文章(" + length + ")");
+},500);

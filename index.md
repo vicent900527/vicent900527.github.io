@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome
+title: Vicent's Blog
 ---
 
 # 欢迎来到琼小资的博客站
