@@ -5,7 +5,7 @@ title: Vicent's Blog
 
 # 欢迎来到琼小资的博客站
 
-<b><font class="timer"></font></b>
+<b><font class="timer"></font></b>      <b><font class="total_article"></font></b>
 
 好记性不如烂笔头。
 

@@ -17,5 +17,5 @@ var getDate = function(){
 $(".timer").text(getDate());
 setTimeout(function(){
   var length = $("#pl__container").find("a").length;
-  $("#pl__all").text("所有文章(" + length + ")");
+  $(".total_article").text("已发表" + length + "篇文章");
 },500);
