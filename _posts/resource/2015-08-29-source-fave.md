@@ -19,6 +19,9 @@ title: 资源收集
 [open-source-for-android](https://github.com/Trinea/android-open-project)
 [a.code4app.com](http://a.code4app.com)
 
+* Android Studio for Mac 快捷键大全：
+[http://blog.csdn.net/jjwwmlp456/article/details/44936947](http://blog.csdn.net/jjwwmlp456/article/details/44936947)
+
 * android Material Design : [material design](http://wiki.jikexueyuan.com/project/material-design)
 
 * 不错的安卓博客地址：
