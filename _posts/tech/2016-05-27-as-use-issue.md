@@ -4,7 +4,7 @@ category: tech
 tags: tech android debug
 keywords: android bug fixed
 description: Android Studio 运行app时遇到的问题
-title: Android Studio 运行APP时遇到的一个问题
+title: AS在模拟器上调试的问题
 ---
 
 在使用Android Studio运行app时，编译没什么错，但是安装到模拟器上或者genymotion上时报这样的错误：
