@@ -31,6 +31,11 @@ title: 资源收集
 ### <b>iOS</b>
 * 略屌的一枚程序媛博客：[blog.csdn.net/yiyaaixuexi](http://blog.csdn.net/yiyaaixuexi)
 
+### <b>视频学习</b>
+* [极客学院](http://www.jikexueyuan.com/)
+
+* [慕课网](http://www.imooc.com/)
+
 ### <b>前端</b>
 * 不错的前端工具：[fex-team.github.io](https://fex-team.github.io/fis-site/docs/beginning/getting-started.html)
 
