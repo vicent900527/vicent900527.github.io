@@ -11,12 +11,12 @@ android studio简称安卓开发神器。
 
 其中有一些功能实在是溜到不行，这里记下几个。
 
-#### 自动生成style
+### 自动生成style
 ---
 
 秉着代码复用的原则，我们的layout文件会尽可能的使用style，这样其他View的样式就可以使用同一个style，这个在静态行式菜单布局会用的特别多。
 
-如果是在eclipse中，我们要去styles文件里新天一个样式，把属性逐一加到items里面去。这样也很麻烦。
+如果是在eclipse中，我们要去styles文件里新添一个样式，把属性逐一加到items里面去。这样也很麻烦。
 
 但在android studio中，我们可以很快搞定。
 
@@ -26,7 +26,7 @@ android studio简称安卓开发神器。
 
 这个功能简直炫到没朋友。
 
-#### 从github上加载开源包
+### 从github上加载开源包
 ---
 
 在eclipse中，我们加载jar包是要下载jar包，然后放到libs下，作为引用。
@@ -46,7 +46,8 @@ dependencies {
 
 然后sync即可。
 
-#### 对bean文件中的变量添加get/set方法
+### 对bean文件中的变量添加get/set方法
+---
 
 这个功能在eclipse中也有，但确实是个非常爽的功能。
 
@@ -54,7 +55,7 @@ dependencies {
 
 ![img](/images/as_get_set.png)
 
-#### 快速打开已有安卓工程
+### 快速打开已有安卓工程
 ---
 
 很多安卓开发者会经常查看一些开源工程的代码，会从github或者其他地方获取到这样的安卓工程，然后用android studio打开来看。
