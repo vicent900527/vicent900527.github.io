@@ -79,7 +79,7 @@ dependencies {
 
 * 2 找到要打开的工程的gradle文件夹。
 
-![img](/images/gradle_version.png)
+![img](/images/as_gradle_version.png)
 
 把wrapper文件夹下的这两个文件用第一步的方法替换掉。
 
