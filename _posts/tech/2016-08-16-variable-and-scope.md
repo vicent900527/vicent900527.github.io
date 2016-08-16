@@ -2,9 +2,9 @@
 layout: post
 category: tech
 tags: tech
-keywords: javascript 变量 作用域 妙用
+keywords: javascript 变量 作用域
 description: JS中的变量作用域
-title: JS中的变量作用域
+title: JS中的变量与作用域
 ---
 
 在JavaScript中，是没有块状作用域的，比如我们可以这样写，而不报错：
@@ -93,5 +93,35 @@ foo();
 ```
 
 就是前面提到的，变量申明会被提到所在域的最前面。因此bar函数里的name，age不再是foo里的了。
+
+这是JS的灵活只处，但这有时也会带来很多麻烦，比如变量污染。
+
+由于可以在任何时候申明和使用，所以我们有时在反复使用某一变量时发现与预期结果不一致，又不会报错，这时就会比较难找到错误所在。
+
+为此，在ES6版本中，我们通常都会使用let关键字替换var来申明变量的原因。
+
+let与var的区别是，let申明变量时变量不会被程序把变量拿到最前面申明，而且重复申明会报错。
+
+比如：
+
+```
+var age = 20;
+console.log(age); // 20
+var age = 18;
+console.log(age);// 18
+```
+
+这是没问题的。
+
+但是用let就不能这样:
+
+```
+let age = 20;
+console.log(age); // 20
+let age = 18; // Identify 'age' already declared.
+console.log(age);
+```
+
+
 
 
