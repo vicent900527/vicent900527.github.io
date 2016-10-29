@@ -87,16 +87,16 @@ import urllib2,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b7
 
    比如我们要写一段这样的html：
 
-   ```
-   <div id="page">
-		<div id="title"></div>
-		<div id="content">
-			<h1>hello,world</h1>
-			<p></p>
-		</div>
-		<div id="foo"></div>
-	</div>
-	```
+```
+<div id="page">
+<div id="title"></div>
+<div id="content">
+<h1>hello,world</h1>
+<p></p>
+</div>
+<div id="foo"></div>
+</div>   
+```
 
    要这样写很费劲，但是这个使用这个插件你只需这样写：
 
