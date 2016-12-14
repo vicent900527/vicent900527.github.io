@@ -3,8 +3,8 @@ layout: post
 category: tech
 tags: tech
 keywords: sticky
-description: position:sticky粘性布局
-title: position:sticky粘性布局
+description: sticky粘性布局
+title: sticky粘性布局
 ---
 
 ### sticky是何物
