@@ -7,7 +7,7 @@ description: nodejs的des加密，zip压缩
 title: nodejs的des加密和zip压缩
 ---
 
-## nodejs的des加密
+## des加密
 
 众所周知，我们Java里面对des加密很通用，也有很规范的库，用起来很方便。
 
