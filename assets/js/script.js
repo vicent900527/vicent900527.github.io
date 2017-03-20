@@ -35,6 +35,11 @@ $('.pl__all').on('click', function() {
   if (sidebar.hasClass('mobile')) {
     $('#sidebar, #pjax, #icon-arrow').addClass('fullscreen');
   }
+  sidebar.addClass('fullscreen');
+  button.addClass('fullscreen');
+  content.delay(200).queue(function(){
+    $(this).addClass('fullscreen').dequeue();
+  });
 });
 
 // Enable fullscreen.
