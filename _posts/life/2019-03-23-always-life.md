@@ -39,7 +39,7 @@ title: 被推着走，跟着生活流
 
 2018年的contributions：
 
-![img](/images/github_active_2018.png)
+![img](/images/github_active_2019.png)
 
 18年至今完全不在线。
 
