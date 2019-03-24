@@ -18,4 +18,6 @@ $(".timer").text(getDate());
 setTimeout(function(){
   var length = $("#pl__container").find("a").length;
   $(".total_article").text("已发表" + length + "篇文章");
+  var window.postData = {{site}}
+
 },500);
