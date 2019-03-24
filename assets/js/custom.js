@@ -14,9 +14,18 @@ var getDate = function(){
 
    return "已开博 " + parseInt(year) + "年" + parseInt(month) + "月" + parseInt(day) + "天";
 }
+var lastArticleDate = function(){
+  var lastDate = $($(".pl__date")[0]).attr("data-date");
+  var lastDate = new Date(lastDate);
+  var y = lastDate.getFullYear();
+  var m = lastDate.getMonth()+1;
+  var d = lastDate.getDate();
+  return y + "年" + m + "月" + d + "日";
+}
 $(".timer").text(getDate());
 setTimeout(function(){
   var length = $("#pl__container").find("a").length;
-  $(".total_article").text("已发表" + length + "篇文章");
+  $(".total_article").text("已发表" + length + "篇文章，最近一篇文章发表于" + lastArticleDate());
   
+
 },500);
